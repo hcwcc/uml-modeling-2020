@@ -20,7 +20,9 @@
 ## 四、实验结果
 
 ![用例图1](./model3_ActivityDiagram1.jpg)
+
 1. 发布手机评测活动图
 
 ![用例图2](./model3_ActivityDiagram2.jpg)
+
 2. 修改手机评测信息活动图
