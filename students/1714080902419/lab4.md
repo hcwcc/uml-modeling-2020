@@ -24,10 +24,10 @@
 
 ## 四、实验结果
 
-![实验四五类图1](./1model4_ClassDiagram1.jpg)
+![实验四五类图1](./model4_ClassDiagram11.jpg)
 
 图1:发布手机评测类图
 
-![实验四五类图2](./1model4_ClassDiagram2.jpg)
+![实验四五类图2](./model4_ClassDiagram22.jpg)
 
 图2:修改手机评测类图
